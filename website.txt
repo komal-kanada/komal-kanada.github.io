@@ -1,0 +1,523 @@
+    1  sudo apt update
+    2  sudo apt install skype
+    3  s2y*e
+    4  sudo apt install skype
+    5  sat apt insatll skype
+    6  sudo apt update
+    7  sudoo apt install skypeforlinux
+    8  sudo apt install skypeforlinux
+    9  sudo apt install skype
+   10  apt -cache policy skype
+   11  sudo apt update
+   12  sudo apt install skypeforlinux
+   13  ls
+   14  cd Downloads/
+   15  ls
+   16  sudo gdebi skype-4-3-0-37-multi-ubu.deb
+   17  sudo apt -get skype-4-3-0-37-multi-ubu.deb
+   18  sudo apt install  skype-4-3-0-37-multi-ubu.deb
+   19  dpkg -i skype-4-3-0-37-multi-ubu.deb 
+   20  sudo dpkg -i skype-4-3-0-37-multi-ubu.deb 
+   21  sudo apt-get remove skype
+   22  dpkg -i skype-4-3-0-37-multi-ubu.deb 
+   23  sudo dpkg -i skype-4-3-0-37-multi-ubu.deb 
+   24  sudo apt-get -f install
+   25  sudo apt-get update
+   26  sudo apt-get -f install
+   27  RUN apt-get update && apt-get install 
+   28  sudo apt-get update && apt-get install 
+   29  sudo apt-get update
+   30  sudo apt-get dist-upgrade
+   31  sudo apt-get -f install  skype 
+   32  sudo apt-get -f install
+   33  skype
+   34  clear
+   35  sudo apt-get update
+   36  sudo apt -get purge skype
+   37  sudo apt-get purge skype
+   38  sudo apt-get update
+   39  ls -l
+   40  mkdir git
+   41  git status
+   42  git --verson
+   43  git --v
+   44  sudo apt install git
+   45  git status
+   46  ls
+   47  mkdir demo
+   48  cd demo/
+   49  git init
+   50  git status
+   51  ls -l
+   52  subl ,
+   53  sudo add-apt-repository ppa:eugenesan/ppa
+   54  sudo apt-get update
+   55  sudo apt-get install smartgit
+   56  wget -qO -https://download.sublimetext.com/sublimehq-pub.gpg | sudo apt-key add -
+   57  sudo apt -key add gpg
+   58  sudo add-apt-repository ppa:webupd8team/y-ppa-manager
+   59  wget -q0 -https://download.sublimetext.com/sublimehq-pub.gpg | sudo apt -key add -
+   60  wget -q0 -https://download.sublimetext.com/sublimehq-pub.gpg | sudo apt-key add -
+   61  wget -q0 -https://download.sublimetext.com/sublimehq-pub.gpg | sudo apt-key add 
+   62  wget -q0 -https://download.sublimetext.com/sublimehq-pub.pgp | sudo apt -key add -
+   63  wget -q0 -https://download.sublimetext.com/sublimehq-pub.pgp | sudo apt 
+   64  echo "deb https://download.sublimetext.com/ apt/stable/" |sudo tee /etc/apt/source.list.d/sublime-text.list
+   65  wget -q0 -https://download.sublimetext.com/sublimehq-pub.pgp | sudo apt 
+   66  wget -q0 -https://download.sublimetext.com/sublimehq-pub.pgp | sudo apt -key add -
+   67  gpg --import KEYS
+   68  sudo apt-get update
+   69  wget -q0 -https://download.sublimetext.com/sublimehq-pub.pgp | sudo apt -key add -
+   70  sudo apt-get update
+   71  sudo apt-get install sublime-text
+   72  wget -qO - https://download.sublimetext.com/sublimehq-pub.gpg | sudo apt-key add -
+   73  echo "deb  https://download.sublimetext.com/ apt/stable/" | sudo tee /etc/apt/sources.list.d/sublime-text.list
+   74  sudo apt-get update
+   75  sudo apt-get install sublime-text
+   76  whereis firefox
+   77  which firefox
+   78  whereis firefox
+   79  sudo apt -get install github
+   80  sudo apt -get update
+   81  sudo add-apt-repository ppa:eugenesan/ppa
+   82  sudo apt-get install smartgit
+   83  git
+   84  git -v
+   85  git --version
+   86  git init
+   87  cd Desktop
+   88  cd Backup
+   89  ls
+   90  cd Training
+   91  ls
+   92  cd result
+   93  git init
+   94  git add README.md
+   95  git commit -m "first commit"
+   96  git remote add origin https://github.com/komal-kanada/demo.git
+   97  git config --global user.name "koaml-kanada"
+   98  git config --global user.email "komal.kanada@bacancytechnology.com"
+   99  git config --global user.name "komal-kanada"
+  100  git add .
+  101  git status
+  102  git commit
+  103  git commit -m "second commit"
+  104  git push origin master
+  105  history->history.txt
+  106  history > history_for_print.txt
+  107  echo "my first commit" > README>txt
+  108  echo "my first commit" > README.txt
+  109  git status
+  110  git add first.txt
+  111  git add txt
+  112  git add README.txt
+  113  git commit
+  114  git commit -m "first commit"
+  115  git add .
+  116  git commit -m "second  commit"
+  117  echo 'one'>>file.txt
+  118  git add file.txt
+  119  git commit -m 'first'
+  120  echo 'two' >>file.txt
+  121  git add file.txt
+  122  git commit -m 'second'
+  123  git checkout -b second-branch
+  124  echo 'three'>>file.txt
+  125  git add file.txt
+  126  git commit -m 'third from second branch'
+  127  git checkout master
+  128  echo 'three' >>file.txt
+  129  git add file.txt
+  130  git commit -m 'third'
+  131  git checkout master
+  132  git merge second-branch
+  133  git commit -m "commit"
+  134  git merge second-branch
+  135  git add file.txt
+  136  git commit 
+  137  git merge -X ours second-branch
+  138  git merge -x  ours second-branch
+  139  git pull origin
+  140  git init
+  141  cd Desjktop
+  142  cd Desktop
+  143  cd Backup
+  144  cd Training
+  145  cd simple_registration
+  146  cd result
+  147  git sttaus
+  148  git status
+  149  git init
+  150  git remote add "https://github.com/komal-kanada/trainig.git"
+  151  git add .
+  152  git status
+  153  git commit -m "file commited"
+  154  git push origin result
+  155  git branch
+  156  git branch -b test
+  157  git bracnh
+  158  git branch
+  159  git merge test
+  160  git push -u origin master
+  161  git pull origin master
+  162  git checkout -b work
+  163  git add .
+  164  git status
+  165  git add report.txt
+  166  git add history.txt
+  167  git status
+  168  git add .
+  169  git commit -m "data"
+  170  git push origin result
+  171  cd..
+  172  git push origin result
+  173  cd ..
+  174  git add result
+  175  git status
+  176  git remote add "https://github.com/komal-kanada/trainig.git"
+  177  git push origin result
+  178  git status
+  179  git add result
+  180  git status
+  181  cd result
+  182  git add result
+  183  git add .
+  184  git status
+  185  git commit -m "data"
+  186  git
+  187  git status
+  188  git branch
+  189  subl .
+  190  cd desktop
+  191  cd Desktop
+  192  ruby module.rb
+  193  sudo apt install ruby
+  194  ruby module.rb
+  195  cd Desktop/
+  196  ls
+  197  cd
+  198  ls
+  199  cd Desktop/
+  200  cd Backup/
+  201  ls
+  202  cd Training/
+  203  ls
+  204  cd result/
+  205  subl .
+  206  git init
+  207  git remote add "https://github.com/komal-kanada/trainig.git"
+  208  git add .
+  209  git status
+  210  git commit -m "file commited"
+  211  git status
+  212  git push origin new
+  213  git push origin work
+  214  git remote add "https://github.com/komal-kanada/trainig.git"
+  215  git push origin work
+  216  git branch
+  217  cd Desktop
+  218  cd github
+  219  ls
+  220  cd github
+  221  git init
+  222  cd github\
+  223  cd github
+  224  cd github 
+  225  cd github /
+  226  cd Komal-Rohini-Radha
+  227  git init
+  228  git remote add "https://github.com/komal-kanada/github.git"
+  229  git add .
+  230  git status
+  231  git commit -m "file are commited"
+  232  git branch
+  233  git checkout -b komal
+  234  git add .
+  235  git status
+  236  git commit -m "data changed"
+  237  git push origin komal
+  238  git user.email komal.kanada@bacancytechnology.com
+  239  git user --global user.name
+  240  git config --global user.email "komal.kanada@bacancytechnology.com"
+  241  git push origin komal
+  242  git remote add origin "https://github.com/komal-kanada/github.git"
+  243  git push origin komal
+  244  git config --global user.email "komal.kanada@bacancytechnology.com"
+  245  git status
+  246  git pull --all
+  247  git clone
+  248  git pull --all
+  249  git checkout rohini
+  250  git branch
+  251  git checkout komal
+  252  git pull origin rohini
+  253  subl .
+  254  git add -A
+  255  git status
+  256  git commit -m "ex3 changes"
+  257  git push origin rohini
+  258  git pull origin rohini
+  259  git add.
+  260  git add .
+  261  git commit -m "dfgh"
+  262  git branch
+  263  git add .
+  264  git status
+  265  git commit -m "ex3 change"
+  266  git push origin komal
+  267  git pull --all
+  268  git push origin komal
+  269  git pull --all
+  270  git pull rohini
+  271  git pull radha
+  272  git branch
+  273  git checkout rohini
+  274  git pull origin
+  275  git merge radha
+  276  git add .
+  277  git status
+  278  git push origin rohini
+  279  git pull all
+  280  git pull --all
+  281  git merge origin/radha
+  282  git merge origin/rohini
+  283  git checkout komal 
+  284  git merge origin/radha
+  285  git add .
+  286  git status
+  287  git commit -m "commit"
+  288  git push origin komal
+  289  git merge rohini
+  290  git merge origin/rohini
+  291  git history > a.txt
+  292  history > a.txt
+  293  git branch
+  294  git remote add "https://github.com/komal-kanada/trainig.git"
+  295  git status
+  296  cd Desktop
+  297  cd Backup
+  298  cd data
+  299  git add .
+  300  git status
+  301  git commit -m "file" 
+  302  git branch
+  303  git push origin master
+  304  git push master
+  305  git push origin master
+  306  git branch 
+  307  git -b data2
+  308  git branch -b data2
+  309  git branch
+  310  git branch data2
+  311  git status
+  312  git branch
+  313  git checkout data2
+  314  git branch
+  315  git add hello
+  316  git status
+  317  git add hello.txt
+  318  git add hello
+  319  git status
+  320  cd..
+  321  cd ..
+  322  cd data
+  323  git add hello
+  324  git commit -m "data file"
+  325  git status
+  326  git push hello
+  327  git push origin data
+  328  git branch
+  329  git push origin data2
+  330  git push  data2
+  331  git add .
+  332  git status
+  333  ls
+  334  git add hello
+  335  git commit -m "hello"
+  336  git log
+  337  git
+  338  git status
+  339  git branch
+  340  git status
+  341  git init
+  342  git branch
+  343  git remote add "https://github.com/komal-kanada/trainig.git"
+  344  git status
+  345  cd Desktop
+  346  cd Backup
+  347  cd data
+  348  ls
+  349  git branch
+  350  git add hello
+  351  git commit -m " data"
+  352  ls
+  353  git add .
+  354  git status
+  355  git add hello
+  356  git commit -m "data"
+  357  git push data2
+  358  git push origin data2
+  359  git init
+  360  git add hello
+  361  cd Desktop
+  362  cd Backup
+  363  cd data
+  364  git add hello
+  365  git commit -m "file hello"
+  366  git remote add origin "https://github.com/komal-kanada/trainig.git"
+  367  git config --global user.email "komal.kanada@bacancytechnology.com"
+  368  git config --global user.name
+  369  git status
+  370  git commit -m "data file"
+  371  git status
+  372  git branch
+  373  git add hello
+  374  git commit -m "data file"
+  375  git status
+  376  git push origin data2
+  377  git stash
+  378  git status
+  379  git reset --soft "data soft reset"
+  380  git reset
+  381  git satus
+  382  git status
+  383  gi tbranch
+  384  git branch
+  385  wgwt -r https://w3layout.lom
+  386  wgwt -r https://w3layout.com
+  387  wget -r https://w3layout.com
+  388  wget -r www.w3layouts.com
+  389  git clone  git@github.com:reena-bacancy/reena-bacancy.github.io.git
+  390  git clone git@github.com:reena-bacancy/reena-bacancy.github.io.git
+  391  cd Reena
+  392  cd Desktop
+  393  cd reena
+  394  git clone git@github.com:reena-bacancy/reena-bacancy.github.io.git
+  395  git clone git@github.com:komal-kanada/reena.git
+  396  ssh-keygen -t rsa -C "komal.kanada@bacancytechnology.com"
+  397  cd
+  398  ls -ltra
+  399  cd .ssh/
+  400  ls
+  401  cat id_rsa.pub 
+  402  cd
+  403  git clone https://github.com/komal-kanada/reena.git
+  404  cd reena/
+  405  ls
+  406  git branch
+  407  git config --global user.name
+  408  git config --global user.email
+  409  git --version
+  410  cd
+  411  sudo add-apt-repository ppa:git-core/ppa
+  412  sudo apt-get update
+  413  cd reena/
+  414  ls
+  415  cat README.md 
+  416  git branch
+  417  git clone https://github.com/komal-kanada/aaa.git
+  418  ls
+  419  rm -rf reena
+  420  ls
+  421  git clone https://github.com/komal-kanada/reena.git
+  422  cd reena/
+  423  git brabch
+  424  git branch
+  425  git checkout -b hardik
+  426  git branch
+  427  git checkout -b komal
+  428  git branch
+  429  git branch -d komal
+  430  git branch -D komal
+  431  git branch -delete komal
+  432  git branch --delete komal
+  433  git branch --delete hardik
+  434  git branch
+  435  git branch -d master
+  436  git branch
+  437  cd 
+  438  ls
+  439  cd Desktop/
+  440  ls
+  441  cd Desktop
+  442  cd Backup
+  443  cd My\ Web\ Sites/
+  444  cd Final\ Templete/
+  445  cd neu-free-webdesigner-profile-responsive-web-template/
+  446  ls
+  447  git init
+  448  git branch
+  449  git remote add https://github.com/komal-kanada/komal_kanada.github.io.git
+  450  git remote add origin  https://github.com/komal-kanada/komal_kanada.github.io.git
+  451  git branch
+  452  branch master
+  453  git branch
+  454  git remote add origin https://github.com/komal-kanada/komal-kanada.github.io.git
+  455  git 
+  456  cd Desktop
+  457  cd Backup/
+  458  cd My\ Web\ Sites/
+  459  cd Final\ Templete/
+  460  cd neu-free-webdesigner-profile-responsive-web-template/
+  461  git remote add origin https://github.com/komal-kanada/komal-kanada.github.io.git
+  462  cd Desktop
+  463  cd komal-kanada.github.io/
+  464  git remote add origin "file:///home/komal/Desktop/Backup/My%20Web%20Sites/Final%20Templete/neu-free-webdesigner-profile-responsive-web-template/css file:///home/komal/Desktop/Backup/My%20Web%20Sites/Final%20Templete/neu-free-webdesigner-profile-responsive-web-template/font file:///home/komal/Desktop/Backup/My%20Web%20Sites/Final%20Templete/neu-free-webdesigner-profile-responsive-web-template/fonts file:///home/komal/Desktop/Backup/My%20Web%20Sites/Final%20Templete/neu-free-webdesigner-profile-responsive-web-template/images file:///home/komal/Desktop/Backup/My%20Web%20Sites/Final%20Templete/neu-free-webdesigner-profile-responsive-web-template/js file:///home/komal/Desktop/Backup/My%20Web%20Sites/Final%20Templete/neu-free-webdesigner-profile-responsive-web-template/favicon.ico file:///home/komal/Desktop/Backup/My%20Web%20Sites/Final%20Templete/neu-free-webdesigner-profile-responsive-web-template/index.html file:///home/komal/Desktop/Backup/My%20Web%20Sites/Final%20Templete/neu-free-webdesigner-profile-responsive-web-template/logo1.jpg file:///home/komal/Desktop/Backup/My%20Web%20Sites/Final%20Templete/neu-free-webdesigner-profile-responsive-web-template/README.txt file:///home/komal/Desktop/Backup/My%20Web%20Sites/Final%20Templete/neu-free-webdesigner-profile-responsive-web-template/signature_3.gif 
+  465  git remote add origin "https://github.com/komal-kanada/komal-kanada.github.io.git"
+  466  git add .
+  467  git status
+  468  git remote add origin "https://github.com/komal-kanada/komal-kanada.github.io.git"
+  469  git add .
+  470  git status
+  471  git init
+  472  git add .
+  473  git status
+  474  git commit -m "website data"
+  475  git push -u origin master
+  476  git push origin master
+  477  git remote -v
+  478  git push origin master
+  479  git push -u origin master
+  480  cd Desktop/
+  481  cd komal-kanada.github.io/
+  482  git remote -v
+  483  git init
+  484  git remote add origin https://github.com/komal-kanada/komal-kanada.github.io.git
+  485  git remote -v
+  486  git branch
+  487  git add aa.txt
+  488  git add aa
+  489  git commit -m "txt commited"
+  490  git push origin master
+  491  git branch master
+  492  git branch
+  493  git checkout -b profile
+  494  git add .
+  495  git status
+  496  git reset HEAD
+  497  git status
+  498  git branch
+  499  git checkout master
+  500  git add index.html
+  501  git status
+  502  git commit -m "index.html modified"
+  503  git checkout profile
+  504  git status
+  505  git add index.html
+  506  git status
+  507  git add index.html
+  508  git status
+  509  git add .
+  510  git status
+  511  git push origin master
+  512  git checkout master
+  513  git add .
+  514  git commit -m "README.txt and index.html modified"
+  515  git push origin master
+  516  cd Desktop/
+  517  cd komal-kanada.github.io/
+  518  git remote -v
+  519  git add .
+  520  git commit -m "index.html Modified"
+  521  git status
+  522  git push origin master
+  523  history >website.txt
